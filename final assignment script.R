@@ -1,6 +1,6 @@
 
 
-###Final Assignment 
+###Final Assignment for short Professional Skill Course
 getwd()
 setwd("/Users/annashen/Desktop/PSC/R")
 
